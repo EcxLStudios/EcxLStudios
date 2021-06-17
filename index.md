@@ -18,4 +18,4 @@ EcxL Studios is a new game developing studio set on creating and releasing games
 
 
 **Download Here**
-[ConnectTheShots.zip](https://github.com/EcxLStudios/EcxLStudios/files/6667112/ConnectTheShots.zip)
+Connect The Shots: [ConnectTheShots.zip](https://github.com/EcxLStudios/EcxLStudios/files/6667112/ConnectTheShots.zip)
