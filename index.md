@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/EcxLStudios/EcxLStudios/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Who We Are
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+EcxL Studios is a new game developing studio set on creating and releasing games varying genres. 
 
 ```markdown
 Syntax highlighted code block
