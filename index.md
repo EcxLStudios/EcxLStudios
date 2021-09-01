@@ -11,7 +11,7 @@ EcxL Studios is a new game developing studio set on creating and releasing games
 ### **Released Projects:**
 
 -   Connect The Shots
--   Grapple Ballkour
+-   Grapple Ballkour (On the Play Store)
 
 
 ### **Download Here**
